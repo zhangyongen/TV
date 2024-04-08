@@ -1,18 +1,19 @@
-source_file = "demo.txt"
+source_file = "myiptv.txt"
 final_file = "result.txt"
 favorite_list = [
-    "广东珠江",
-    "开平综合",
-    "开平生活",
     "CCTV-1",
+    "CCTV-2",
+    "CCTV-3",
+    "CCTV-4",
     "CCTV-5",
     "CCTV-5+",
+    "CCTV-6",
+    "CCTV-8",
+    "CCTV-10",
     "CCTV-13",
-    "广东体育",
-    "广东卫视",
-    "大湾区卫视",
-    "浙江卫视",
-    "湖南卫视",
+    "CCTV-16",
+    "凤凰中文",
+    "凤凰资讯",
     "翡翠台",
 ]
 favorite_page_num = 6
